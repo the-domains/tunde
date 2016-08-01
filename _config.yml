@@ -1,19 +1,4 @@
-name: Tunde
-favicon: null
-layout_spectrum: 0.8964442741125822
-typography_spectrum: 0.8800641144625843
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -21,8 +6,13 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5600078487768769
-  lightness: 0.9981011513154954
-  saturation: 0.7645577765069902
-  rhythmicContrast: 0.23522683046758175
+  brandStrength: 0.679276
+  lightness: 0.767269
+  rhythmicContrast: 0.279605
+  saturation: 0.6875
+cta: {}
+layout_spectrum: 0.320723
+name: Tunde
+opengraph: {}
 purpose: []
+typography_spectrum: 0.497532
